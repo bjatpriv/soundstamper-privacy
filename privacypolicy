@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SoundStamper Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #f50;
+            border-bottom: 2px solid #f50;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #666;
+            margin-top: 30px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for SoundStamper</h1>
+    <p><em>Last Updated: [Current Date]</em></p>
+
+    <h2>Overview</h2>
+    <p>SoundStamper is a Chrome extension that allows users to save and annotate timestamps in SoundCloud tracks. We are committed to protecting your privacy and being transparent about our data practices.</p>
+
+    <h2>Data Collection and Storage</h2>
+    <p>SoundStamper collects and stores the following information locally on your device:</p>
+    <ul>
+        <li>Timestamps of saved moments in SoundCloud tracks</li>
+        <li>Track titles and URLs</li>
+        <li>User-written notes associated with timestamps</li>
+        <li>Pin status of saved timestamps</li>
+    </ul>
+    <p>All data is stored locally using Chrome's storage API and remains on your device. We do not collect, transmit, or store any data on external servers.</p>
+
+    <h2>Data Usage</h2>
+    <p>The stored data is used solely to:</p>
+    <ul>
+        <li>Display your saved timestamps</li>
+        <li>Enable search functionality within your saved timestamps</li>
+        <li>Maintain your pin preferences</li>
+        <li>Navigate to specific moments in SoundCloud tracks</li>
+    </ul>
+
+    <h2>Third-Party Access</h2>
+    <ul>
+        <li>We do not share any data with third parties</li>
+        <li>We do not collect any personal information</li>
+        <li>We do not use analytics or tracking tools</li>
+    </ul>
+
+    <h2>Data Control</h2>
+    <p>Users can:</p>
+    <ul>
+        <li>Delete individual timestamps at any time</li>
+        <li>Clear all stored data by uninstalling the extension</li>
+        <li>Access all their saved data through the extension interface</li>
+    </ul>
+
+    <h2>Changes to This Policy</h2>
+    <p>We may update this privacy policy from time to time. Any changes will be reflected in the "Last Updated" date.</p>
+
+    <h2>Contact</h2>
+    <p>If you have any questions about this privacy policy, please contact [Your Contact Information].</p>
+</body>
+</html>
